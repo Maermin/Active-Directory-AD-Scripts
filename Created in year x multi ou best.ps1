@@ -1,5 +1,5 @@
 ﻿$OUListe = @(
-    'OU=Your,OU=OU,OU=structur,OU=xyz,OU=_xyz,DC=xyz,DC=xyz',
+    'OU=Your,OU=OU,OU=structur,OU=xyz,OU=_xyz,DC=xyz,DC=xyz', #change to your ou structure
     'OU=Your,OU=OU,OU=structur,OU=xyz,OU=_xyz,DC=xyz,DC=xyz',
     'OU=Your,OU=OU,OU=structur,OU=xyz,OU=_xyz,DC=xyz,DC=xyz',
     'OU=Your,OU=OU,OU=structur,OU=xyz,OU=_xyz,DC=xyz,DC=xyz',
